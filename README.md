@@ -1,4 +1,4 @@
-# 🎬 FlickFizz
+# 🍿 FlickFizz
 
 **FlickFizz** is a sleek movie search application built with React that uses the OMDb API to fetch movie data. It lets users search for movies, view ratings, mark them as watched, and even rate them personally — all while persisting their data using local storage.
 

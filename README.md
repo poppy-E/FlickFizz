@@ -22,4 +22,5 @@
 
 ---
 
-## 🚀 Getting Started
+## 🚀 live --
+click here : https://flick-fizz.vercel.app/
